@@ -14,5 +14,5 @@
 // for example I am making this Module here for Mine Own Case .. Lets say we want to get name of the file I am currently working
 // in for node JS  I will do something like this
 
-var Path = require("path"); //here the thing "path" is basically the path module presentin our global 
+var Path = require("pathsssssssssssss"); //here the thing "path" is basically the path module presentin our global 
 console.log(`your File name is ${Path.basename(__filename)}`);
